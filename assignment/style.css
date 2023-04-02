@@ -10,22 +10,23 @@
 
 /* Change the font-family of your list */
 body {
-    background-color: rgb(246, 151, 255);
+    background-color: rgb(214, 157, 88);
   }
 header {
-    background-color: rgb(251, 204, 255);
+    background-color: rgb(253, 221, 141);
 }
 
 footer {
-    background-color: rgb(251, 204, 255);
+    background-color: rgb(237, 198, 131);
 }
 h1{
     text-align: center;
-    color: darkmagenta;
+    color: rgb(171, 87, 8);
 }
 p{
-    color: darkmagenta;
+    color: darkorange;
     font-style: italic;
+    font-size: large;
 }
 img {
     border: 7px solid #312149;
@@ -34,6 +35,8 @@ img {
 
   ul{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+    color: rgb(171, 87, 8);
   }
 
   .container {
@@ -42,10 +45,10 @@ img {
     color: white;
   }
 
-  .bottom-left {
+  .bottom-right {
     position: absolute;
     bottom: 8px;
-    left: 16px;
+    right: 16px;
     font-size:x-large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
   }
