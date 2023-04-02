@@ -15,7 +15,7 @@ touch file
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.33.0
 # 8 - Why would you run the command 'git status'?
-gives you a list of files that are changed but not staged and committed
+To figure out what changes have been made since you last staged and/or committed.
 # 9 - What does the command 'git add .' do?
 Adds all changed files to the staging area
 # 10 - What is the command to push your committed changes to your repo on GitHub?
